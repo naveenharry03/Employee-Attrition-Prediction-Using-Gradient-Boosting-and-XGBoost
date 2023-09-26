@@ -1,1 +1,3 @@
 # Employee-Attrition-Prediction-Using-Gradient-Boosting-and-XGBoost
+
+This project focuses on employee attrition prediction, utilizing a dataset encompassing over 35 attributes, including employee personal information, job and role details, work history, education, and leave records. To address this challenge, we employ gradient boosting and XGBoost algorithms. By using the power of these advanced techniques, organizations can benefit from more accurate and efficient employee attrition prediction, facilitating proactive HR management, talent retention, and workforce planning. Gradient boosting and XGBoost enhance classification tasks by capturing complex relationships within the data, resulting in improved decision-making and reduced employee turnover.
